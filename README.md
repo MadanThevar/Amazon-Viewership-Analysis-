@@ -132,4 +132,4 @@ Here are some unique and trending strategies that could help Amazon Prime improv
 
 ## 💬 Contact
 
-For any questions, suggestions, or collaboration ideas, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Email](mailto:youremail@example.com). I’d love to connect! 🤝
+For any questions, suggestions, or collaboration ideas, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madanthevar/) I’d love to connect! 🤝
