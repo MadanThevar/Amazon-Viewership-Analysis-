@@ -1,4 +1,9 @@
-# 🎬 Amazon Prime Movies and TV Shows Analysis 🎥
+
+
+
+<div align="center">
+  <h1> 🎬 Amazon Prime Movies and TV Shows Analysis 🎥 </h1>
+</div>
 
 ## 📊 Power-Bi Dashboard
 
