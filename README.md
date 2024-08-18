@@ -1,4 +1,6 @@
-![Amazon Viewership Analysis]()
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MadanThevar/Amazon-Viewership-Analysis-/main/giphy.webp" alt="Amazon Viewership Analysis" width="750"/>
+</div>
 
 
 <div align="center">
