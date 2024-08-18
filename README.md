@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MadanThevar/Amazon-Viewership-Analysis-/main/giphy.webp" alt="Amazon Viewership Analysis" width="750"/>
+  <img src="https://raw.githubusercontent.com/MadanThevar/Amazon-Viewership-Analysis-/main/giphy.webp" alt="Amazon Viewership Analysis" width="725"/>
 </div>
 
 
